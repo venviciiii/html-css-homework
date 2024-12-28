@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .text {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .image img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .footer {
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    margin-top: 20px;
+  }
+  
