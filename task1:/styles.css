@@ -1,0 +1,47 @@
+body {
+    background-color: #F5F5DC; 
+    font-family: 'Montserrat', Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #800020; 
+    color: white;
+  }
+  
+  main {
+    padding: 20px;
+    color: #000000;
+  }
+  
+  .avatar {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #800020; 
+    object-fit: cover;
+  }
+  
+  .interests-list {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #000000; 
+  }
+  
+  .interests-list li {
+    margin: 5px 0;
+  }
+  
+  a {
+    color: #000000; 
+  }
+  
+  a:hover {
+    color: #660018;
+  }
+  
